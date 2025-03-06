@@ -208,7 +208,7 @@ input:checked + .slider.round:before {
 ***********************************************/
 .about-section {
   padding: 4rem 2rem;
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
