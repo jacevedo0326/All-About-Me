@@ -1,7 +1,7 @@
-# Jacob Kanfer’s Personal Website
+# Joshua Acevedo's Personal Website
 
 A polished personal website showcasing my projects, experience, and resume, built with HTML, CSS, and JavaScript.  
-[**View Live**](https://jacobkanfer.com)
+[**View Live**](https://joshuaacevedo.com)
 
 ## Table of Contents
 - [Features](#features)
@@ -11,13 +11,13 @@ A polished personal website showcasing my projects, experience, and resume, buil
 ---
 
 ## Features
-1. **Dynamic “About Me”**: Showcases personal background, degree info, and new career position.  
-2. **Projects Section**: Dynamically pulls GitHub repo data, displays language badges and last updated times.  
-3. **Experience Timeline**: Lays out professional and leadership roles with a responsive timeline.  
+1. **Dynamic "About Me"**: Showcases personal background, Electrical Engineering degree at University of Florida, and AI research experience.  
+2. **Projects Section**: Showcases major projects including Smart Hub Manager, Club Manager, and AI DJ with detailed technical information.  
+3. **Experience Timeline**: Lays out professional and leadership roles including Smart Systems Lab research, Volera Technologies co-founding, and UF Table Tennis Club leadership.  
 4. **AOS (Animate on Scroll)**: Smooth fade-in/up animations on each section.  
-5. **Dark Mode Toggle**: Uses `localStorage` to remember the user’s preference.  
+5. **Dark Mode Toggle**: Uses `localStorage` to remember the user's preference.  
 6. **Responsive Design**: Mobile-friendly layout, flexbox/grid usage.  
-7. **Cached GitHub Data**: Minimizes API calls, reducing rate-limit issues.  
+7. **GitHub Integration**: Links to GitHub profile and project repositories.  
 
 ---
 

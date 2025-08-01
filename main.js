@@ -16,9 +16,13 @@ AOS.init({
   if (typedElement) {
     var typed = new Typed('#typed-element', {
       strings: [
-        "a Software Developer",
-        "focused on Automation",
-        "interested in Cybersecurity"
+        "An Electrical Engineering Student",
+        "An AI Researcher",
+        "Passionate about Machine Learning",
+        "Working with LLMs",
+        "Building Embedded Systems",
+        "Exploring Computer Vision",
+        "Developing Automation Solutions"
       ],
       typeSpeed: 50,
       backSpeed: 30,
